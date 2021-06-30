@@ -17,9 +17,9 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 1. Primary Dataset: [Profiles of Individual Radicalization in the United States (PIRUS)](https://start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus)
 2. Secondary Dataset: [Losing Our Minds: Brain Drain across the United States - US Congress Joint Economic Committee (BDD)](https://www.jec.senate.gov/public/index.cfm/republicans/2019/4/losing-our-minds-brain-drain-across-the-united-states)
 
-### Sanity Checks
+### [Sanity Checks](https://github.com/hannah144/Radicalism-in-America/blob/9d0df04939f803ee17e75b864af253341e848952/Final%20Jupyter%20Notebooks/sanity_checks.ipynb)
 
-### Data Cleansing (See Final Report pg 4)
+### [Data Cleansing (See Final Report pg 4)](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners)
 
 ### Analysis
 1. Overall Trends in American Radicalism (Line Graph)
