@@ -6,7 +6,7 @@ By Jacquie Nesbitt & Hannah Gross | MIDS Spring 2021 | hannah.gross@berkeley.edu
 Throughout history, stories of radicalism in the media have helped shape the American identity through the use of othering. By media portrayals of radicalized individuals, we can be sure that we aren’t one of *them*. But how accurate are these media portrayals of radicalism in America?
 
 <p align="center">
-  <img width=90% height=90% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/95eec42e1493396fcad5512487720aae36f4ed49/radical_pic2.png">
+  <img width=100% height=100% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/95eec42e1493396fcad5512487720aae36f4ed49/radical_pic2.png">
 </p>
 
 **To access the code, please clone this repository to your local computer**
@@ -27,10 +27,15 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 2. [Gender & American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_analysis.ipynb)
 
 3. [Ideology & American Radicalism (Line Graph)]()
+
 4. [Gender and Radical Ideology (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_radical_ideologies_section.ipynb)
+
 5. [Gender, Radical Ideology & Age (Violin Plot)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_age_ideology_section.ipynb)
+
 6. [Gender, Relationship Status & American Radicalism (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_relationship_status_section.ipynb)
+
 7. [Diversity in Terrorist Groups & Their Plot Outcomes (Bar Chart?)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/ethnicity_plot_outcomes_analysis_on_terrorist_groups.ipynb) **Needs Some Work!**
+
 8. Socioeconomic Impact on Radical Habitation and Plot Locations
 
    a) [Violent Interstate and Intrastate Radical Plots by State (chord graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb)
@@ -46,9 +51,13 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
    b) Radicals by Education Level (Bar Chart?)
    
 10. Radical Behaviors and Education (Bar Chart?)
+
 11. Role in Group by Education (Bar Chart?)
+
 12. Radical Work History by Year (Bar Chart)
+
 13. Radical Employment Status by Year (Bar Chart)
+
 14. Violent Behaviors by Employment Status (Bar Chart)
 
 ### Conclusion (See Final Report pg 15)
