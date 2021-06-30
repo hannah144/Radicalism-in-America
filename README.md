@@ -6,7 +6,7 @@ By Jacquie Nesbitt & Hannah Gross | MIDS Spring 2021 | hannah.gross@berkeley.edu
 Throughout history, stories of radicalism in the media have helped shape the American identity through the use of othering. By media portrayals of radicalized individuals, we can be sure that we aren’t one of *them*. But how accurate are these media portrayals of radicalism in America?
 
 <p align="center">
-  <img width=90% height=90% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/e4c29d48c1c2c1d44edff469aa42424f23908721/radical_pic.png">
+  <img width=90% height=90% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/95eec42e1493396fcad5512487720aae36f4ed49/radical_pic2.png">
 </p>
 
 **To access the code, please clone this repository to your local computer**
