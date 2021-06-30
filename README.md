@@ -14,8 +14,8 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 ## Quick Links
 
 ### Datasets
-1. Primary Dataset: Profiles of Individual Radicalization in the United States (PIRUS)
-2. Secondary Dataset: Losing Our Minds: Brain Drain across the United States - US Congress Joint Economic Committee (BDD)
+1. Primary Dataset: [Profiles of Individual Radicalization in the United States (PIRUS)](https://start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus)
+2. Secondary Dataset: [Losing Our Minds: Brain Drain across the United States - US Congress Joint Economic Committee (BDD)](https://www.jec.senate.gov/public/index.cfm/republicans/2019/4/losing-our-minds-brain-drain-across-the-united-states)
 
 ### Sanity Checks
 
