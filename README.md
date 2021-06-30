@@ -23,7 +23,9 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 ### Analysis
 1. [Overall Trends in American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/overall_trends.ipynb)
+
 2. [Gender & American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_analysis.ipynb)
+
 3. [Ideology & American Radicalism (Line Graph)]()
 4. [Gender and Radical Ideology (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_radical_ideologies_section.ipynb)
 5. [Gender, Radical Ideology & Age (Violin Plot)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_age_ideology_section.ipynb)
@@ -53,7 +55,5 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 ### References (See Final Report pg 16)
 
-
 ### Easter Egg!
-
 We encourage those who are curious to check out our [chord graph](https://github.com/hannah144/Radicalism-in-America/blob/cce9aa119c37f408fc776a1168be591ecbf4706d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb) depicting flows from habitation to plot location by radicals recorded in PIRUS. Users can choose to filter the PIRUS data by terrorist organization to get a sense of that organization's geography. Additionally, due to time constraints, our chord graph has yet to be fully realized, and so we leave it to the better minds to refine and interpret.  &#10084;&#65039; Hannah
