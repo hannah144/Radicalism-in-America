@@ -19,19 +19,19 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 ### [Sanity Checks](https://github.com/hannah144/Radicalism-in-America/blob/9d0df04939f803ee17e75b864af253341e848952/Final%20Jupyter%20Notebooks/sanity_checks.ipynb)
 
-### [Data Cleansing (See Final Report pg 4)](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners)
+### [Data Cleansing](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners)
 
 ### Analysis
-1. Overall Trends in American Radicalism (Line Graph)
-2. Gender & American Radicalism (Line Graph)
-3. Radical Ideology & American Radicalism (Line Graph)
-4. Gender and Radical Ideology (Bar Chart)
-5. Gender, Radical Ideology & Age (Violin Plot)
-6. Gender, Relationship Status & American Radicalism (Bar Chart)
-7. Racial Diversity in Terrorist Groups & Their Plot Outcomes (Bar Chart?)
+1. [Overall Trends in American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/overall_trends.ipynb)
+2. [Gender & American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_analysis.ipynb)
+3. [Ideology & American Radicalism (Line Graph)]()
+4. [Gender and Radical Ideology (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_radical_ideologies_section.ipynb)
+5. [Gender, Radical Ideology & Age (Violin Plot)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_age_ideology_section.ipynb)
+6. [Gender, Relationship Status & American Radicalism (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_relationship_status_section.ipynb)
+7. [Diversity in Terrorist Groups & Their Plot Outcomes (Bar Chart?)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/ethnicity_plot_outcomes_analysis_on_terrorist_groups.ipynb) **Needs Some Work!**
 8. Socioeconomic Impact on Radical Habitation and Plot Locations
 
-   a) Violent Interstate and Intrastate Radical Plots by State (chord graph)
+   a) [Violent Interstate and Intrastate Radical Plots by State (chord graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb)
   
    b) Radical Habitations and Radical Plot Locations by City (Choropleth)
   
