@@ -38,7 +38,7 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 8. Socioeconomic Impact on Radical Habitation and Plot Locations
 
-   a) [Violent Interstate and Intrastate Radical Plots by State (chord graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb)
+   a) [Violent Interstate and Intrastate Radical Plots by State (Chord Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb)
   
    b) Radical Habitations and Radical Plot Locations by City (Choropleth)
   
