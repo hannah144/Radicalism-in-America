@@ -9,7 +9,7 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
   <img width=100% height=100% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/95eec42e1493396fcad5512487720aae36f4ed49/radical_pic2.png">
 </p>
 
-**To access the code, please clone this repository to your local computer**
+**To fully access the code, please clone this repository to your local computer**
 
 ## Quick Links
 
