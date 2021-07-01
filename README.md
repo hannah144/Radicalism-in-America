@@ -21,6 +21,8 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 ### [Data Cleansing](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners)
 
+### [Find Coordinates From City, State](https://github.com/hannah144/Radicalism-in-America/blob/18f931e56d6af9634cdae1bf489f334331feafbc/Final%20Jupyter%20Notebooks/create_coordinates_from_city_state.ipynb)
+
 ### Analysis
 1. [Overall Trends in American Radicalism (Line Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/overall_trends.ipynb)
 
@@ -40,25 +42,16 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
    a) [Violent Interstate and Intrastate Radical Plots by State (Chord Graph)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/habitation_vs_plot_locations.ipynb)
   
-   b) Radical Habitations and Radical Plot Locations by City (Choropleth)
+   b) [Radical Habitations and Radical Plot Locations by City (Scatterplots)](https://github.com/hannah144/Radicalism-in-America/blob/8948bc379e180c0cc5ffc2db891fd21c55ac6ee4/Final%20Jupyter%20Notebooks/plot_habitation_usmaps.ipynb)
   
-   c) 2017 Plot Locations and Brain Drain (Choropleth)
+   c) [2017 Plot Locations and Brain Drain (Choropleth with Scatterplot Overlay)](https://github.com/hannah144/Radicalism-in-America/blob/8948bc379e180c0cc5ffc2db891fd21c55ac6ee4/Final%20Jupyter%20Notebooks/BDD%20Analysis.ipynb)
   
-9. Education by Ideological Groups
+9. Ideological Groups, Radical Behaviors, Role in Group and Violent Behaviors by Education Level
 
-   a) Radicals by Education Level (Table)
-   
-   b) Radicals by Education Level (Bar Chart?)
-   
-10. Radical Behaviors and Education (Bar Chart?)
+   a)[Ideology, Radical Behaviors, Role in Group, and Violent Behaviors by Education Level (Table and 100% Stacked Bar Charts)](https://github.com/hannah144/Radicalism-in-America/blob/8948bc379e180c0cc5ffc2db891fd21c55ac6ee4/Final%20Jupyter%20Notebooks/education_section.ipynb)
 
-11. Role in Group by Education (Bar Chart?)
+10. [Work History, Employment Status, Violent Behaviors by Year, Behavior and Ideology (100% Unstacked Bar Chart, Line Graph, 100% Stacked Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/8948bc379e180c0cc5ffc2db891fd21c55ac6ee4/Final%20Jupyter%20Notebooks/workhistory_section.ipynb)
 
-12. Radical Work History by Year (Bar Chart)
-
-13. Radical Employment Status by Year (Bar Chart)
-
-14. Violent Behaviors by Employment Status (Bar Chart)
 
 ### Conclusion (See Final Report pg 15)
 
