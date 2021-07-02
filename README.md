@@ -12,7 +12,11 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
   <img width=100% height=100% alt="Radical Image" src="https://github.com/hannah144/Radicalism-in-America/blob/95eec42e1493396fcad5512487720aae36f4ed49/radical_pic2.png">
 </p>
 
-**To fully access the code and visuals, please clone this repository to your local computer**
+## Instructions to fully access the code and visuals
+1. Clone this repository to your local computer
+2. Download the [PIRUS Dataset](https://start.umd.edu/webform/pirus-download-full-dataset)
+3. Download the [BDD Dataset](https://www.jec.senate.gov/public/index.cfm/republicans/2019/4/losing-our-minds-brain-drain-across-the-united-states)
+4. Open the [Data Cleansing Notebook](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners) and modify it to pull in your newly downloaded data & run!
 
 ## Quick Links
 
