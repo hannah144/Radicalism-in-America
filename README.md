@@ -16,7 +16,8 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 1. Clone this repository to your local computer
 2. Download the [PIRUS Dataset](https://start.umd.edu/webform/pirus-download-full-dataset)
 3. Download the [BDD Dataset](https://www.jec.senate.gov/public/index.cfm/republicans/2019/4/losing-our-minds-brain-drain-across-the-united-states)
-4. Open the [Data Cleansing Notebook](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners) and modify it to pull in your newly downloaded data & run!
+4. Open each of our [Data Cleansing Notebooks](https://github.com/hannah144/Radicalism-in-America/tree/main/data/data_cleaners) and modify to pull in your newly downloaded data & run
+5. Enjoy!
 
 ## Quick Links
 
