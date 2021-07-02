@@ -3,7 +3,7 @@
 
 By Jacquie Nesbitt & Hannah Gross | MIDS Spring 2021 | hannah.gross@berkeley.edu
 
-> &#10071;**ATTENTION** All claims made in this project are specific to the PIRUS dataset and are not claims about Radicalism in America in general. This is soley a data exploration project and should not be used in any capacity other than as a reference for sweet data visuals in python and other data exploration projects. 
+> &#10071;**ATTENTION** All claims made in this project are specific to the [PIRUS Dataset](https://start.umd.edu/data-tools/profiles-individual-radicalization-united-states-pirus) and are not claims about Radicalism in America in general. This is soley a data exploration project and should not be used in any capacity other than as a reference for sweet data visuals in python and other data exploration projects. 
 
 
 Throughout history, stories of radicalism in the media have helped shape the American identity through the use of othering. By media portrayals of radicalized individuals, we can be sure that we aren’t one of *them*. But how accurate are these media portrayals of radicalism in America?
