@@ -47,7 +47,7 @@ Throughout history, stories of radicalism in the media have helped shape the Ame
 
 6. [Gender, Relationship Status & American Radicalism (Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/gender_relationship_status_section.ipynb)
 
-7. [Diversity in Terrorist Groups & Their Plot Outcomes (Bar Chart?)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/ethnicity_plot_outcomes_analysis_on_terrorist_groups.ipynb)
+7. [Diversity in Terrorist Groups & Their Plot Outcomes (100% Stacked Bar Chart)](https://github.com/hannah144/Radicalism-in-America/blob/4f14dec87584d557e0f440f30493a6fde00fe40d/Final%20Jupyter%20Notebooks/ethnicity_plot_outcomes_analysis_on_terrorist_groups.ipynb)
 
 8. Socioeconomic Impact on Radical Habitation and Plot Locations
 
